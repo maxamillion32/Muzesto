@@ -1,6 +1,8 @@
 # Muzesto
 Muzesto is an open source android music player. Muzesto emphasizes on the visualization factor to make the whole audio listening experience immersive and unique. The Floating Play/Pause widget works as a companion to the app. 
 
+<a href="https://play.google.com/store/apps/details?id=rohanoid5.twar"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=50px/></a>
+
 # Screenshots
 ![](https://raw.githubusercontent.com/rohanoid5/Muzesto/master/Screenshot/Screenshot_2016-06-22-18-15-19-067.jpg)
 ![](https://raw.githubusercontent.com/rohanoid5/Muzesto/master/Screenshot/Screenshot_2016-06-22-18-16-29-968.jpg)
