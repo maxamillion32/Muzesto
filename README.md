@@ -19,7 +19,6 @@ Muzesto is an open source android music player. Muzesto emphasizes on the visual
 rohanoid5@gmail.com
 
 ## Credits
-* [Timber](https://github.com/naman14/Timber)
 * [TimelyTextView](https://github.com/adnan-SM/TimelyTextView)
 * [MultiViewPager](https://github.com/Pixplicity/MultiViewPager)
 * [PlayPauseButton](https://github.com/recruit-lifestyle/PlayPauseButton)
